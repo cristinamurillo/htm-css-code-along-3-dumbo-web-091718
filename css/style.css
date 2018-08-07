@@ -32,3 +32,10 @@ figcaption {
 }
 /*ID selector* (only apply to one unique element per page)*/
 
+#logo {
+  background-color:aqua;
+}
+
+/*Descendant Selector*/
+
+
